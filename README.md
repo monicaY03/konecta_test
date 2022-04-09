@@ -5,7 +5,7 @@
 Este aplicativo es desarrollado con las siguientes tecnologias:
 1. `JAVA version 8 (SpringBoot version 2.6.6)`
 2. `JPA/Hibernate`
-3. `Thymeleaf```
+3. `Thymeleaf`
 4. `Maven`
 5. `Jquery`
 6. `AJAX`
